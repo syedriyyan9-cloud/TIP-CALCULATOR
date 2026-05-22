@@ -10,8 +10,9 @@ If you prefer a local server, use any static file server or IDE live preview too
 
 Then open the URL your tool gives, or simply open `index.html` in the browser.
 
+Or you can check it at: https://tip-calculator-blue-rho.vercel.app
+
 ## Notes
 
-- No deployed URL yet.
 - The app calculates total tip, total bill, and share per person.
 - A light/dark theme toggle is available in the header.
